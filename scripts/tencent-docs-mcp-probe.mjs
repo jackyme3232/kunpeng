@@ -1,3 +1,4 @@
+// Temporary read-only network probe for Tencent Docs MCP.
 const url = 'https://docs.qq.com/openapi/mcp';
 const payload = {
   jsonrpc: '2.0',
